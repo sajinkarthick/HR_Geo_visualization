@@ -24,8 +24,8 @@ project/
 ├── app.py                    # Main Streamlit app
 └── README.md                 # This file
 
-git clone https://github.com/your-username/industrial-hr-eda.git
-cd industrial-hr-eda
+git clone [https://github.com/your-username/industrial-hr-eda.git](https://github.com/sajinkarthick/HR_Geo_visualization.git)
+cd HR_Geo_visualization
 
 python -m venv venv
 source venv/bin/activate   # On Windows: venv\Scripts\activate
