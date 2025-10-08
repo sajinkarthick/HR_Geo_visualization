@@ -30,6 +30,9 @@ cd HR_Geo_visualization
 python -m venv venv
 source venv/bin/activate   # On Windows: venv\Scripts\activate
 
+
+Install all dependencies with:
+
 pip install -r requirements.txt
 
 streamlit run app.py
